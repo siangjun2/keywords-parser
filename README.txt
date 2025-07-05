@@ -5,6 +5,8 @@ A Python script to analyze keyword trends in the *CHI Conference on Human Factor
 - **Data Source**: Scopus (max sample size: 5,000 records)  
 - **Output**: Ranked lists of top author-keywords and index-keywords.
 
+Output suggests an emerging trend of incorporating large language models and related artificial intelligence technology into accessbility research.
+
 ## Features
 - Parses author keywords and index keywords from Scopus CSV exports.
 - Generates a sorted frequency count of terms.
